@@ -1,19 +1,22 @@
-## Halo 👋, I am George Angel 🙃
+![a lil sum (1)](https://user-images.githubusercontent.com/97320082/235324371-ff7f8ba2-065e-4f8b-9eb2-21170cd4bcd1.jpg)
+
+## Halo <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />, devTenshi Here! 🙃
 
 I am passionate software engineer focused on problem-solving, user satisfaction, and continuous self-improvement. My overarching objective centers around fulfilling user needs by leveraging my proficiency in the latest technological tools and methodologies.
 
-- 🌱 I’m currently learning: **Database Management**
+- 🔭 I’m currently learning: **Database Management**
+
+- 🌱 Exploring: **Technical Content Writing**
 
 - 👯 I’m looking to collaborate on: **Any Project, especially Open Source Projects**
 
 - 💬 Ask me about: **My Relationship with Backend web Technologies**
 
-- 📫 How to reach me: **[Email](georgeangel222@gmail.com)**, **[LinkedIn](https://linkedin.com/in/george-angel-914846211/)**
+- 📫 How to reach me: **[![mail Badge](https://img.shields.io/badge/-Email-red?style=flat&logo=Email&logoColor=white)](georgeangel222@gmail.com)**, **[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/george-angel-914846211/)**
 
 - ⚡ Fun fact: **I am Ambidextrous**
 
-
-## 🔧 Technologies and Tools
+## 🛠 Technologies and Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
@@ -30,12 +33,11 @@ I am passionate software engineer focused on problem-solving, user satisfaction,
 
 ## ✍ Blog & Writing
 
-In addition to my coding pursuits, I curate a blog featuring my written works, which can be accessed via my blog at [devtenshi.blog](https://hashnode.com/@Tenshi) as well as on [DEV.to](https://dev.to/devtenshi).
+In addition to my coding pursuits, I curate a blog featuring my written works, which can be accessed via my blog at [Hashnode](https://hashnode.com/@Tenshi) as well as on [DEV.to](https://dev.to/devtenshi).
 
-<!--A sample of my recent articles:-->
 
-## 📈 Github Stats
+## 🔥 My Github Stats
 <p align="center">
-  <a href="https://github.com/devTenshi/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevTenshi&langs_count=10&layout=compact&theme=midnight-purple&repo=github-readme-stats" height=220 />
-</a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevTenshi&langs_count=10&layout=compact&theme=midnight-purple&repo=github-readme-stats" />
+</p>
+
