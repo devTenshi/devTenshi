@@ -1,14 +1,14 @@
-# Halo👋, I am George Angel 🙃
+## Halo 👋, I am George Angel 🙃
 
- Passionate software engineer focused on problem-solving, user satisfaction, and continuous self-improvement. My overarching objective centers around fulfilling user needs by leveraging my proficiency in the latest technological tools and methodologies.
+I am passionate software engineer focused on problem-solving, user satisfaction, and continuous self-improvement. My overarching objective centers around fulfilling user needs by leveraging my proficiency in the latest technological tools and methodologies.
 
 - 🌱 I’m currently learning: **Database Management**
 
-- 👯 I’m looking to collaborate on: **Any Project especially Open Source Projects**
+- 👯 I’m looking to collaborate on: **Any Project, especially Open Source Projects**
 
-- 💬 Ask me about: **ExpressJs, Typescript**
+- 💬 Ask me about: **My Relationship with Backend web Technologies**
 
-- 📫 How to reach me: **[Email](georgeangel222@gmail.com)**,**[LinkedIn](https://linkedin.com/in/george-angel-914846211/)**
+- 📫 How to reach me: **[Email](georgeangel222@gmail.com)**, **[LinkedIn](https://linkedin.com/in/george-angel-914846211/)**
 
 - ⚡ Fun fact: **I am Ambidextrous**
 
