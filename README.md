@@ -1,14 +1,12 @@
-![a lil sum (1)](https://user-images.githubusercontent.com/97320082/235324371-ff7f8ba2-065e-4f8b-9eb2-21170cd4bcd1.jpg)
-
 ## Halo <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />, devTenshi Here! 🙃
 
 I am passionate software engineer focused on problem-solving, user satisfaction, and continuous self-improvement. My overarching objective centers around fulfilling user needs by leveraging my proficiency in the latest technological tools and methodologies.
 
-- 🔭 I’m currently learning: **Database Management**
+- 🔭 I’m currently learning: **Everything I can; While i still can**
 
-- 🌱 Exploring: **Technical Content Writing**
+- 🌱 Exploring: **server-side and serverless technologies**
 
-- 👯 I’m looking to collaborate on: **Any Project, especially Open Source Projects**
+- 👯 I’m looking to collaborate on: **Any Project involving server-side development**
 
 - 💬 Ask me about: **My Relationship with Backend web Technologies**
 
